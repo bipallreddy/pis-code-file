@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+    .stackmenu {
+        display: none;
+        visibility: hidden;
+        width: 0 !important;
+        height: 0 !important;
+    }
+}
+@media screen and (min-width: 600px) {
+    .hamburger {
+        display: none;
+        visibility: hidden;
+        width: 0 !important;
+        height: 0 !important;
+    }
+}
+
