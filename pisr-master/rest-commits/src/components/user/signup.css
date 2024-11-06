@@ -1,0 +1,8 @@
+.signupbox {
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+

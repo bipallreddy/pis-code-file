@@ -1,0 +1,18 @@
+.container-home {
+    width: 80%;
+    padding-top: 20px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: smaller;
+    text-align: justify;
+}
+@media screen and (max-width: 600px) {
+    .container-home {
+        font-size: small;
+        line-height: 28px;
+        text-align: justify;
+    }
+    h1 {
+        text-align: left;
+    }
+}
